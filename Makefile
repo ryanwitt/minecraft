@@ -6,7 +6,7 @@ upgrade: root
 	yum upgrade -y
 install-system-requirements: root
 	yum groupinstall -y "Development tools"
-	yum install -y --enablerepo=epel htop dstat git s3cmd rlwrap
+	yum install -y --enablerepo=epel htop dstat git s3cmd rlwrap java7
 	s3cmd --configure
 
 install: upgrade install-system-requirements update
