@@ -32,6 +32,6 @@ There is a strange bug on some clients on some worlds where the server continuou
 
 Depends on how much money you want to pay. m1.small should work, but bigger servers work better with bigger worlds.
 
-Setting up raid on the drive the world is stored on can help a bunch. RAIDed SSD would be even better if you want to try the newer instance types.
+Setting up RAID on the drive the world is stored on can help a bunch. RAIDed SSD would be even better if you want to try the newer instance types.
 
 More cores do not seem to help much, except perhaps if multhreaded garbage collection is enabled.
