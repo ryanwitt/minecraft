@@ -1,4 +1,4 @@
-# A minecraft server for AWS
+# A minecraft server for AWS / Amazon EC2
 
 This is intended for people with a bit of experience with unix software.
 
