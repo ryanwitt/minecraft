@@ -28,7 +28,7 @@ Read the `Makefile` to understand other commands you can use. It's a very thin w
 
 There is a strange bug on some clients on some worlds where the server continuously runs itself out of memory. :(
 
-## What server should I use?
+## What ec2 instance type should I use?
 
 Depends on how much money you want to pay. m1.small should work, but bigger servers work better with bigger worlds.
 
